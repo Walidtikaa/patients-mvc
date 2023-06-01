@@ -7,19 +7,19 @@
   5. Faire des améliorations supplémentaires</h5>
 <hr><br>
 <h5>PatientsMvcApplicatiion.java</h5>
-<img src="screen/1.PNG" alt="">
+<img src="screen/1.png">
 <h5>PatientsController.java</h5>
-<img src="screen/2_1.PNG">
-<img src="screen/2_2.PNG">
-<img src="screen/2_3.PNG">
+<img src="screen/2.png">
+<img src="screen/3.png">
+<img src="screen/4.png">
 <h5>patients.HTML</h5>
-<img src="screen/3_1.PNG">
-<img src="screen/3_2.PNG">
+<img src="screen/5.png">
+<img src="screen/6.png">
 
-<h5>template.HTML</h5>
-<img src="screen/4_1.PNG">
-<img src="screen/4.2.PNG">
-<h5>formPatient.HTML</h5>
-<img src="screen/5.PNG">
-<h5>editPatient.HTML</h5>
-<img src="screen/6.PNG">
+<h5>Template.HTML</h5>
+<img src="screen/7.png">
+<img src="screen/8.png">
+<h5>FormPatient.HTML</h5>
+<img src="screen/9.png">
+<h5>EditPatient.HTML</h5>
+<img src="screen/10.png">
